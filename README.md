@@ -7,7 +7,7 @@ Face Recognition system for one user using "Linear Binary Pattern Histogram Face
      In face cropping part , a part of the code contains the path of the directory where the cropped faces needed to be stored.
      So, carefully edit the path with the path where your faces directory is.
 # Step to install the module
-    pip install opencv-python  
+    pip install opencv-python   
         
   
  
