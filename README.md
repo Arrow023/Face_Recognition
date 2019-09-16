@@ -9,7 +9,7 @@ Face Recognition system for one user using "Linear Binary Pattern Histogram Face
 # Step to install the module
     pip install opencv-python   
         
-  
+ 
  
 
 
