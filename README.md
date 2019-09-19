@@ -8,7 +8,7 @@ Face Recognition system for one user using "Linear Binary Pattern Histogram Face
      So, carefully edit the path with the path where your faces directory is.
 # Step to install the module
     pip install opencv-python    
-    
+     
    
   
  
