@@ -1,6 +1,6 @@
 # Face_Recognition 
 Face Recognition system for one user using "Linear Binary Pattern Histogram Face Recognizer"
-# Modules needed  
+# Modules needed   
      cv2 
      os 
 # Pre-Requisite
